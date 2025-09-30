@@ -25,13 +25,13 @@ h2{
 }
 p{
     font-size: 1.2rem;
-    padding: 5px;
+    padding: 10px;
 }
 main{
     margin: auto;
     width: 85vw;
     background-color: #1E293B;
-    padding: 10px;
+    padding: 10px; 
 }
 h1{
     padding: 10px;
@@ -63,7 +63,7 @@ footer{
     text-align: center;
 }
 ul,ol{
-    padding: 20px;
+    padding:25px;
 }
 iframe{
     display: block;
