@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+}
+
+#img1{
+    background: url(../imagens/01755f2c-16c9-43b5-9cf1-ceeceeea8ca6.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 320px;
+}
+#img2{
+    background: url(../imagens/ID-April-8-key-art-2-01aa4bf5acc033cc1408.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 320px;
+}
+#img3{
+    background: url(../imagens/Steam_Client.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 320px;
+}
+#img4{
+    background: url(../imagens/hq720.jpg)no-repeat top right fixed;
+    background-size: cover;
+    height: 320px;
+}
+header{
+    text-align: center;
+    background-color: #142a75;
+}
+h1,h2{
+    text-align: center;
+    color: #a17bfb;
+}
+h1{
+    font-size: 2.5rem;
+}
+h2{
+    font-size: 1.8rem
+}
+p{
+    font-size: 1.2rem;
+    padding: 5px;
+}
+main{
+    margin: auto;
+    width: 80vw;
+    background-color: #1E293B;  ;
+    border-radius: 13px;
+    border: 3px solid #8B5CF6;
+}
+h1{
+    padding: 10px;
+}
+body{
+    line-height: 1.6;
+    font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+    background-color: #202531;
+    color: #F1F5F9;
+}
+a{
+    border: 1px solid black;
+    padding: 3px;
+    color:#A3E635 ;
+    text-decoration: none;
+}
+#links{
+    background-color: #8B5CF6;
+
+}
+a:hover{
+    background-color: #A3E635;
+    color: #8B5CF6;
+}
+footer{
+    border: 1px solid black;
+    text-align: center;
+}
+ul,ol{
+    padding: 20px;
+}
+iframe{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
